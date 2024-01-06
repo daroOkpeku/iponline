@@ -1,0 +1,75 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Camera",
+          "category":"Techology",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url":"https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Blackberry phnone",
+           "category":"Techology",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/1474234/pexels-photo-1474234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Fragence",
+          "category":"Fashion",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/4041392/pexels-ph…jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Venus Pressed Powder",
+          "category":"Fashion",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/2693646/pexels-ph…jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Green Bell Peppers",
+          "category":"Food",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/2893525/pexels-ph…jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "orange",
+          "category":"Food",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/4022107/pexels-ph…jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Wooden Spoons",
+          "category":"kitchen utensils",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/350417/pexels-pho…jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Holding Grater",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "https://images.pexels.com/photos/3768147/pexels-photo-3768147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" } } }
+        }
+      }
+    ]
+  }
