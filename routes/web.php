@@ -49,7 +49,7 @@ Route::group(['middleware' => 'admin',  'prefix' => 'admin'], function () {
 
 
 Route::group(['middleware' => 'auth'], function () {
-// normally auth
+// normally auth for users
 });
 
 

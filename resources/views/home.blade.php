@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>jumia</title>
+        <title>home</title>
         {{--  <link
         rel="stylesheet"
         href="{{ asset('fontawesome-free-5.12.0-web/css/all.css') }}"

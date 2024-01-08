@@ -43,7 +43,7 @@
 
 
                             <div class="w-11/12">
-                              <button class="w-full capitalize bg-blue-400 text-white py-2 rounded-sm submit">submit</button>
+                              <button class="w-full capitalize bg-[#F09D5180] text-white py-2 rounded-sm submit">submit</button>
                             </div>
 
             </section>
